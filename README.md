@@ -1,8 +1,8 @@
 # 🧪 Automação de Testes E2E com Cypress + Cucumber
-Projeto apresentado para obtenção de nota na disciplina Qualidade de Software
-Curso: IESP - Sistemas para Internet
-Aluna: Ana Paula Ferreira Oliveira
-Turma: P5A - Noite
+Projeto apresentado para obtenção de nota na disciplina Qualidade de Software  
+Curso: IESP - Sistemas para Internet  
+Aluna: Ana Paula Ferreira Oliveira  
+Turma: P5A - Noite  
 
 Este projeto realiza automação de testes end-to-end (E2E) utilizando Cypress com Cucumber (BDD) no portal do Governo da Paraíba.
 
