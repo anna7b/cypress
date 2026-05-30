@@ -60,17 +60,17 @@ npx cypress open
 
 ## 🧪 Cenários automatizados
 
-1) Qual é o app?
+1) Qual é o app?   
 Portal do Governo da Paraíba (https://paraiba.pb.gov.br/)  
 
 2) Iremos testar o que?
-- Navegação no portal -> Entrar em páginas e validar redirecionamento\
-- Acessibilidade -> Mudar configurações do site e validar comportamento do site por atributo HTML\
-- Acessibilidade -> Mudar configurações do site e validar comportamento do site por atributo CSS\
-- Navegação por elementos/menus -> Entrar em elementos da página e validar exibição\
+- Navegação no portal -> Entrar em páginas e validar redirecionamento
+- Acessibilidade -> Mudar configurações do site e validar comportamento do site por atributo HTML
+- Acessibilidade -> Mudar configurações do site e validar comportamento do site por atributo CSS
+- Navegação por elementos/menus -> Entrar em elementos da página e validar exibição
 
-3) Cenários
-📌 Cenários existentes no projeto:\
+3) Cenários  
+📌 Cenários existentes no projeto:   
 - Cenário 1\
 Funcionalidade: Consulta das Gerências Regionais de Educação\
 Cenário: Visualizar a 1ª Regional de Educação\
