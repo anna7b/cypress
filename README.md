@@ -21,12 +21,12 @@ Os testes validam funcionalidades como navegação, acessibilidade, exibição d
 
 ## 📁 Estrutura do projeto
 
-cypress/
-├── e2e/
-│   ├── features/        # Arquivos .feature (cenários Gherkin)
-│   └── steps/           # Implementação dos steps (Cypress + Cucumber)
-├── support/
-│   └── e2e.js           # Configurações globais do Cypress
+cypress/  
+├── e2e/  
+│   ├── features/        # Arquivos .feature (cenários Gherkin)  
+│   └── steps/           # Implementação dos steps (Cypress + Cucumber)  
+├── support/  
+│   └── e2e.js           # Configurações globais do Cypress  
 
 ---
 
