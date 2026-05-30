@@ -87,30 +87,33 @@ npx cypress open
 **Esquema do Cenário:** Validar e-mails de contato por setor  
 
 
-4) Casos de teste\
+4) Casos de teste
+
 **🔹 CT01 - Consultar dados da 1ª Regional de Educação**\
     Dado que eu estou na página inicial do Governo da Paraíba\
     Quando eu clico em Secretarias\
     E eu clico em Educação\
     E eu clico em Gerências\
-    Então está exibindo na tela o texto "1ª Regional - João Pessoa"\
+    Então está exibindo na tela o texto "1ª Regional - João Pessoa"
 
 **🔹 CT02 - Acessibilidade (Aumento de fonte / zoom)**\
     Dado que estou na página inicial\
     Quando clico 3x em Aumentar Fonte\
-    Então o zoom deve ser aplicado (ex: zoom: 1.3)\
+    Então o zoom deve ser aplicado (ex: zoom: 1.3)
 
 **🔹 CT03 - Acessibilidade (Ativação de alto contraste)**\
     Dado que eu estou na página inicial do Governo da Paraíba\
     Quando eu clico em Alto Contraste\
-    Então o fundo da página deve ficar preto\
+    Então o fundo da página deve ficar preto
 
 **🔹 CT04 - Validar contatos de setores**\
-    - **CT04.1 - Validar contato do Governador**\
+
+    **CT04.1 - Validar contato do Governador**\
         Dado que estou na página inicial\
         Quando clico em Contatos\
         E clico em Governador\
         Então deve exibir: spg@palacio.pb.gov.br\
+
     - **CT04.2 - Validar contato da Secretaria Executiva da Casa Civil**\
         Dado que estou na página inicial\
         Quando clico em Contatos\
