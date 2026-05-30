@@ -2,6 +2,8 @@ import { Given, When, Then } from "cypress-cucumber-preprocessor/steps";
 
 Given("que eu acesso a página de consulta de dados", () => {
   cy.visit("https://portaldatransparencia.gov.br/");
+  // Aceitar cookies
+  cy.get("#accept-all-btn", { timeout: 10000 }).should("be.visible").click();
 });
 
 When("eu clico em Consulte dados", () => {

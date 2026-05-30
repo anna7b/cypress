@@ -86,8 +86,3 @@ npx cypress open
 - `limparFiltros.feature` / `limparFiltros.js` — valida a limpeza de filtros e a atualização da consulta, confirmando que o estado sem filtros é exibido.
 
 ---
-
-## 📌 Observação
-
-O README agora contém apenas a descrição dos testes atualmente implementados na pasta `cypress/e2e/features` e suas respectivas implementações em `cypress/e2e/steps`. Os cenários anteriores foram removidos.
-
