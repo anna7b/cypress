@@ -108,13 +108,13 @@ npx cypress open
 
 **🔹 CT04 - Validar contatos de setores**\
 
-    **CT04.1 - Validar contato do Governador**\
+**CT04.1 - Validar contato do Governador**\
         Dado que estou na página inicial\
         Quando clico em Contatos\
         E clico em Governador\
         Então deve exibir: spg@palacio.pb.gov.br\
 
-    - **CT04.2 - Validar contato da Secretaria Executiva da Casa Civil**\
+**CT04.2 - Validar contato da Secretaria Executiva da Casa Civil**\
         Dado que estou na página inicial\
         Quando clico em Contatos\
         E clico em Secretaria Executiva da Casa Civil\
