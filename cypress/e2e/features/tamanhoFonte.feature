@@ -9,5 +9,5 @@ Funcionalidade: Acessibilidade - Aumento de fonte
         Dado que eu estou na página inicial do Governo da Paraíba
 
     Cenário: Aumentar fonte do site
-        Quando eu clico em Aumentar Fonte
+        Quando eu clico 3x em Aumentar Fonte
         Então a fonte da página deve aumentar
